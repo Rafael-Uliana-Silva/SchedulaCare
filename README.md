@@ -2,7 +2,7 @@
 
 # Plataforma SaaS de Agendamentos
 
-Sistema completo de agendamento online voltado para profissionais e pequenos negócios, como salões de beleza, psicólogos, pet shops, entre outros.
+Sistema completo de agendamento online voltado para psicólogos.
 
 ## Tecnologias
 
