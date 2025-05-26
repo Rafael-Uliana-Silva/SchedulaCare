@@ -1,0 +1,2 @@
+# SchedulaCare
+Plataforma de agendamento
