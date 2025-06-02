@@ -1,0 +1,10 @@
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+
+div {
+  background: pink;
+}
+a {
+  text-decoration: none;
+}
+/* … etc. */
