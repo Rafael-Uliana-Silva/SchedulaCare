@@ -4,6 +4,26 @@ a {
   text-decoration: none;
 }
 
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+small {
+  font-size: 0.75rem;
+}
+
 @theme {
   --color-primary-light: #60a5fa;
   --color-primary: #3b82f6;
